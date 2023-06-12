@@ -1,4 +1,18 @@
-### TeX ###
+# List of untracked files to ignore
+matlab_code/testing_sandbox.m
+matlab_code/MAT_files/LMS_PQ.mat
+matlab_code/temp_results/*
+matlab_code/data/*
+
+
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -7,22 +21,20 @@
 *.fls
 *.out
 *.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
 
-## BibLaTeX auxiliary files:
-*.bbl
-*.bcf
+*.pdf
 *.blg
-
-## Intermediate documents:
-*.dvi
-*-converted-to.*
-<<<<<<< HEAD
-
-### Editor ###
-## Vim & Emacs temp files:
-.*sw[op]
-*~
-
-### Mac OS X ###
-## Mac OS X metadata files:
-*.DS_Store
+*.bbl
+*.tmp
+*.bak
+*.asv
+*.bkp
+*.sav
+~*.xlsx
+~$presentation.pptx
+~$esentation_notes.docx
