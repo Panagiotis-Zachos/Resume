@@ -1,0 +1,61 @@
+[build-system]
+build-backend = "hatchling.build"
+requires = ["hatchling"]
+
+[project]
+authors = [{email = "panzaxos@gmail.com", name = "Panagiotis Zachos"}]
+description = ""
+name = "resume"
+requires-python = ">= 3.12"
+version = "0.1.0"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/libs"]
+
+[tool.pixi.dependencies]
+ruff = ">=0.13.0,<0.14"
+"pdfminer.six" = ">=20250506,<20250507"
+
+[tool.pixi.project]
+channel-priority = "disabled"
+channels = ["anaconda", "conda-forge", "nvidia", "pytorch"]
+platforms = ["win-64"]
+
+[tool.ruff.lint]
+# This enables us to use the explicit preview rules that we want only
+explicit-preview-rules = true
+# all rules can be found here: https://docs.astral.sh/ruff/rules/
+extend-select = ["E501", "I", "PGH", "RUF", "TID252", "W"]
+ignore = [
+  "COM812",
+  "COM819",
+  "D206",
+  "D300",
+  "E111",
+  "E114",
+  "E117",
+  # E721 gives many false positives.
+  # Use `is` and `is not` for type comparisons, or `isinstance()` for
+  # isinstance checks
+  "E721",
+  # do not assign a lambda expression, use a def
+  "E731",
+  # do not use variables named 'l', 'O', or 'I'
+  "E741",
+  # We don't care much about F841.
+  # Local variable ... is assigned to but never used
+  "F841",
+  "Q000",
+  "Q001",
+  "Q002",
+  "Q003",
+  # some RUF rules trigger too many changes
+  "RUF002",
+  "RUF003",
+  "RUF005",
+  "RUF012",
+  "RUF015",
+  "RUF021",
+  "W191"
+]
+preview = true

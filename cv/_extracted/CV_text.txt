@@ -1,0 +1,354 @@
+PANAGIOTIS ZACHOS 
+
+Contact Information: 
+
+•  Phone: (+30) 6948 226 940 
+•  Email: panzaxos@gmail.com 
+•  LinkedIn, Scholar, Github 
+
+EDUCATION 
+
+•  PhD in Audio Signal Processing  
+
+                       09/2020 – 11/2024 
+
+Thesis Subject: Sound Perception Optimization for Headphone Listening. 
+Summary: Development and optimization of algorithms that utilize auditory mechanisms 
+and  advanced  digital  processing  methods  aiming  to  achieve  improved  quality  and 
+naturalness in the perception of sound. 
+
+•  Integrated Master Electrical and Computer Engineering  
+
+           09/2014 – 08/2020 
+Thesis: Sound Source Localization Using Deep Neural Networks Utilizing Binaural Cues 
+           09/2011 – 06/2014 
+
+•  4th General High School, Larisa  
+
+WORK EXPERIENCE 
+
+Satways Ltd. 
+Senior Audio & Distributed Acoustic Sensing Engineer 
+09/2025 - Present 
+•  Develop detection, DoAE and classification algorithms using Φ-OTDR technologies and 
+
+distributed sensor arrays. 
+
+•  Design experiments involving sensor arrays (Microphones, Hydrophones, Geophones) 
+
+and Φ-OTDR Distributed Acoustic Sensing fibers. 
+
+•  Visualization of geospatial data (AIS, GNSS) for large-scale experiment planning. 
+Audio & Distributed Acoustic Sensing Engineer 
+•  Developed  sensor  arrays  of  various  configurations/geometries  for 
+
+12/2023 – 07/2025 
+long-range 
+
+surveillance. 
+
+•  Developed  robust  Event  Detection  and  Classification  solutions  for  sound  sources  on 
+land/sea using  Φ-OTDR Distributed Acoustic Sensing  fibers and sensor arrays, using 
+traditional signal/image processing and advanced AI tools. 
+
+ITHACA Horizon Europe Project 
+AI & ML Researcher 
+•  Provide metrics to guarantee Trustworthy and Ethical AI. 
+•  Develop  tools  about  AI  Cybersecurity,  Fairness  and  Privacy  and  a  Visualization 
+
+06/2023 – 12/2025 
+
+component about such tools. 
+
+•  Development  of  Gamification  and  Argument  Visualization  systems  for  a  civic 
+
+engagement platform 
+
+Panagiotis Zachos - 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+ 
+Sonova Holding AG 
+Internship in Research & Development for Hearing Performance 
+11/2020 – 04/2021 
+•  Developed time domain signal processing features in a new architecture paradigm from 
+
+exploration to implementation. 
+•  Performed acoustic measurements. 
+•  Developed tools for fast integration and verification. 
+•  Contributed to the parametrization of existing signal processing functionalities. 
+•  Performed hearing performance exploration and validation. 
+
+PROMETHEUS Project 
+Machine Learning Researcher for Audio-Visual Signal Processing     09/2020 – 12/2023 
+•  Development of a subsystem that generates static and dynamic 3D augmented reality 
+
+objects with interactive interfaces to be used in AR enhanced theatrical plays. 
+•  Development of an intuitive GUI for directing and calibrating theatrical plays. 
+
+SKILLS 
+
+Audio Engineering: Digital Signal Processing, Active Noise Control, Headphone/Room 
+Response Measurements, Room Equalization Wizard, Audacity, Reaper 
+
+Technical: Distributed Acoustic Sensing (DAS), Φ-OTDR, Phased Array processing, 
+Software Defined Radio (SDR) 
+
+Programming: Python (NumPy, SciPy, Pandas, PyTorch, Tensorflow, matplotlib, parallel 
+processing libraries), MATLAB, Simulink, git, C, Java, TI C6713 Assembly, C++  
+
+Platforms: Windows, Linux (Fedora, Debian, Ubuntu) 
+
+PUBLICATIONS 
+
+Conference Papers 
+1.  Zachos,  P.,  Moiragias,  G.,  &  Mourjopoulos,  J.  (2023,  September).  “Targeted 
+Beamforming Active Noise Control Based on Disturbance Metrics”. In Forum Acusticum 
+(pp. 3627-2634) 
+
+2.  P.  Zachos  and  J.  Mourjopoulos,  “Beamforming  headphone  ANC  for  targeted  noise 
+
+attenuation,” Audio Engineering Society Convention 154, May 2023 
+
+3.  Zachos, P., Kamaris, G., & Mourjopoulos, J. (2022, October). “Binaural Data Reduction 
+for  Robust  Sound  Source  Localization  utilizing  Convolutional  Neural  Networks  for 
+Reverberant Environments”. ACOUSTICS2022, Thessaloniki, Greece. 
+
+4.  Zachos, P., Mermigas D., & Mourjopoulos, J. (2022, October). “Large Scale Headphone 
+
+Response Analysis and Evaluation”. ACOUSTICS2022, Thessaloniki, Greece. 
+
+Panagiotis Zachos - 2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.  Chatziantoniou  P.,  Kamaris,  G.,  Kaleris  K,  Moiragias,  G.,  Zachos  P.,  Agorgianitis,  S. 
+Mourjopoulos, J. (2022, October). “Evaluation of Multichannel Reproduction of 3D audio 
+in a Cave Automatic Virtual Environment”. ACOUSTICS2022, Thessaloniki, Greece. 
+6.  Zachos,  P.,  Kamaris,  G.,  &  Mourjopoulos,  J.  (2020,  December).  “An  Efficient  Data 
+Reduction  Method  for  Binaural  Parameter  Utilization”.  In Forum  Acusticum (pp.  1953-
+1960). 
+
+Journal Papers 
+1.  Zachos,  P.,  Moiragias,  G.,  &  Mourjopoulos,  J.  “Targeted  Beamforming  Active  Noise 
+
+Control Based on Disturbance Metrics”. Acta Acustica.  
+
+2.  Kamaris,  G.,  Zachos,  P.,  &  Mourjopoulos,  J.  (2021).  “Low  Filter  Order  Digital 
+the  Audio  Engineering 
+
+Equalization  for  Mobile  Device  Earphones”. Journal  of 
+Society, 69(5), 297-308. 
+
+3.  Zachos P., Kamaris G., Mourjopoulos J.  “Feedforward Headphone Active Noise Control 
+
+Utilizing Auditory Masking”, Journal of the Audio Engineering Society 
+
+4.  Zangl, M., Loi, I., Zachos, P., Bedek, M., Dimogerontakis, E., Nikolaou, C.E., Albert, D. 
+and Moustakas, K., 2025. A multidisciplinary analysis of transparent AI-driven toxicity 
+detection tools for civic engagement platforms. AI & SOCIETY, pp.1-18. 
+
+5.  N. Chandrinos, I. Loi, P. Zachos, I. Symeonidis, A. Spiliotis, M. Panou, K. Moustakas, 
+“Effectiveness  of  L2  Regularization  in  Privacy-Preserving  Machine  Learning”,  (Under 
+Review) 
+
+TEACHING EXPERIENCE   
+
+•  Doctoral Teaching Assistant, University of Patras 
+
+Procedural Programming                                                                    Feb. 2020 – Jun. 2020 
+Support in lab exercises for developing robust programs written in C, using dynamic memory 
+allocation and data structures. 
+
+                                                                Feb. 2020 – Feb. 2025 
+Digital Audio Technology  
+Support  in  student  projects  concerning  Active  Noise  Control,  Microphone  Array  design, 
+Headphone  equalization  and  3D  sound  and  lab  exercises  concerning  audio  quantization, 
+quality, and analysis. 
+
+Electroacoustics Laboratory  
+                                          Oct. 2020 – Jan 2025 
+Support in experimental procedures for measurements concerning electroacoustic applications. 
+
+Communication Systems Laboratory                                                  Oct. 2020 – Feb. 2021 
+Assistance in LTI communication systems lab focusing on concepts such as channel response 
+and SNR calculation, AM/FM modulation, quantization, and sampling. 
+
+Panagiotis Zachos - 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•  Seminar Lectures 
+
+The Sound of Science: A dive into sound measure and hearing 
+Lectures  on  sound,  physics  and  hearing,  sound  measurement  techniques  and  technologies, 
+sound  perception  and  modern  audio  technology  such  as  Active  Noise  Control  systems  and 
+Spatial Audio. 
+•  Undergraduate Teaching Assistant, University of Patras 
+
+Digital Signal Processing Laboratory  
+                             Oct. 2018 – Feb. 2020 
+Supervised  exercises  related  to  audio  applications  and  filter  design  in  the  Digital  Signal 
+Processing Laboratory. 
+
+•  Diploma Theses Support (indicative subjects) 
+o  Audio signal processing for dereverberation 
+o  Adaptive multi-channel equalization in a room with pseudo-anechoic conditions 
+o  Large scale headphone response analysis for the design of digital filters 
+o  Sound Event Detection and Localization for signals recorded by a tetrahedral 
+
+microphone array using Machine Learning 
+
+o  Machine Learning Active Noise Control 
+
+PROJECTS  
+
+YouTube Album Downloader (Github) 
+              Nov 2019 
+I designed a command line application written in Python to easily download full albums from 
+YouTube  and  automatically  split  them  in  their  respective  songs  by  parsing  the  video 
+description for song timestamps.  
+
+Adaptive Filtering for Headphone Active Noise Control (ANC) (Github)   
+  Jun 2019 
+Design of 2 ANC applications utilizing adaptive filters, one with knowledge of environmental 
+noise, via a microphone placed outside the headphone enclosure and one without information 
+about the noise. 
+
+Blood Pressure Monitoring System  (Github) 
+  Jun 2018 
+An application written in Java consisting of two parts, a Blood Pressure Monitoring device 
+(Raspberry Pi) with the role of the client, and a multi-threaded Server simulating a doctor’s 
+computer. The client automatically submits a patients’ measurements to the server from where 
+the doctor can remotely monitor their health. 
+
+  Jun 2018 
+Intelligent Control of a ZEB with FCMs 
+Design and modeling of a Zero Energy Building’s power usage and production systems. Fuzzy 
+Control  Maps  were  employed  to  calculate  the  optimal  energy  balance  to  minimize  carbon 
+footprint. 
+
+Panagiotis Zachos - 4 
+
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Control System and PIDF Design 
+              Feb 2017 
+Implementation of a transfer function (Plant) and a PIDF controller using LM741 Op-Amps. 
+The design process involved performing simulations of the electrical circuits with PSpice and 
+MATLAB  Simulink  to  select  the  necessary  components,  laboratory  measurements  on  the 
+constructed circuit, and PCB designs for the Plant and PIDF Controller. 
+
+ May 2015 
+2048 Game Solver (Github)   
+A program written in C that automatically plays the popular mobile game “2048”, deciding 
+the best possible move through statistical analysis. 
+
+HONORS & AWARDS 
+
+2nd Place - EESTEC Challenge 
+             Mar 2018  
+EESTEC Challenge is an annual competition for engineering students with varying subjects. 
+This competition involved processing Big Data and constructing Machine Learning models for 
+planetary data. 
+
+Euroscola Program    
+     February 2013 
+Got accepted into the Euroscola program by winning the local round which involved writing 
+an essay  about  the democratic deficit of the EU.  During  the program  I was responsible for 
+presenting a new ecological plan, devised by our team consisting of members from 5 different 
+EU countries, in the European Parliament. 
+
+1st Place – 4th Panhellenic Orchestra Competition   
+ May 2006 
+I was a member of the classical guitar ensemble from the ‘Gkouletsou’ conservatory, winning 
+first place in the competition that took place in Piraeus University in Athens. 
+
+LANGUAGES 
+
+Greek: Native Language 
+English: Advanced Proficiency – C2 
+Spanish: Intermediate Proficiency – B2 
+German: Elementary Proficiency – A2 
+
+Panagiotis Zachos - 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -38,3 +38,7 @@ matlab_code/data/*
 ~*.xlsx
 ~$presentation.pptx
 ~$esentation_notes.docx
+
+# pixi environments
+.pixi
+*.egg-info
