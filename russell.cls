@@ -810,8 +810,6 @@
      \printfield{pages}%
      \newunit%
      \printlist{publisher}%
-     \setunit*{\addcomma\space}%
-     \printfield{year}%
      \newunit%
    }
    \par\vspace{0.3\baselineskip}
@@ -827,8 +825,6 @@
    {%
      \fontsize{8pt}{1em}\bodyfontlight\color{graytext}%
      \printfield{booktitle}%
-     \setunit{\addcomma\space}%
-     \printfield{year}%
      \setunit{\addcomma\space}%
      \printlist{location}%
      \newunit%
@@ -846,8 +842,6 @@
    {%
      \fontsize{8pt}{1em}\bodyfontlight\color{graytext}%
      \printfield{booktitle}%
-     \setunit{\addcomma\space}%
-     \printfield{year}%
      \setunit{\addcomma\space}%
      \printlist{location}%
      \newunit%
@@ -867,8 +861,6 @@
      \printfield{booktitle}%
      \setunit*{\addcomma\space}%
      \printfield{note}%
-     \setunit*{\addcomma\space}%
-     \printfield{year}%
      \setunit{\addcomma\space}%
      \printlist{location}%
      \newunit%
@@ -888,8 +880,6 @@
      \printfield{type}%
      \setunit{\space}%
      \printfield{number}%
-     \setunit{\addcomma\space}%
-     \printfield{year}%
      \newunit%
    }
    \par\vspace{0.3\baselineskip}
